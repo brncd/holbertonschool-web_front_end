@@ -90,7 +90,7 @@ a:active {
 }
 
 .section-footer{
-    padding: var(--section-footer-padding);
+    padding: var(--footer-padding);
     text-align: var(--section-footer-align);
 }
 
